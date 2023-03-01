@@ -1,3 +1,2 @@
 # Hi there, I'm Linh 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tthaolinh&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tthaolinh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+My name is Linh Tran, and I am a junior student at Penn State University studying Management Information Systems with a minor in Digital Media Trends and Analytics. I am an experienced leader with strong interpersonal, project management, and planning skills. I have a broad range of technical capabilities in data analysis, market research, and soft skills in project management. I feel comfortable working with the following data analytics tools: SQL, Python, Tableau, Power BI, and Google Analytics. 
