@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linh Tran</h1>
-<h3 align="center">A passionate data analyst from Vietnam</h3>
+<h3 align="center">A senior majoring in Applied Data Science with Energy Busiess and Finance minor.</h3>
+<h3 align="center">I'm interested in Data Analyst, Data Science, Business Intelligent Engineering role.</h3>
 
 - 📫 How to reach me **linhthaotran0902@gmail.com**
 
